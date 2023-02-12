@@ -9,7 +9,7 @@
 	*{margin:0;padding:0;box-sizing:border-box;font-size:0;}
             
 	nav 
-		nav lu{
+		nav ul{
 			display: none;
 		}
 		a{
